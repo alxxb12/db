@@ -1,0 +1,7 @@
+- *totbill*  the bill amount (dollars)
+- *tip*  the tip amount (dollars)
+- *sex*  gender of the payer of the bill
+- *smoker* a factor with levels No Yes, whether the party included smokers
+- *day* day of the week
+- *time*  rough time of day
+- *size*  number of people in party
